@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd25542e7be511dd0e5a2cc1f3530f58a</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>d9928d2b4799d9d09fd53525d36d436c</scope_name>
+        <serialized_content>{"FlowDesigner:FDd25542e7be511dd0e5a2cc1f3530f58a":{"$COCollectionField":[{"destination":{"address":"String","address.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Address\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"lat":"String","lat.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Lat\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"long":"String","long.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Long\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Destination List\",\"mandatory\":\"false\",\"child_name\":\"destination\",\"uiUniqueId\":\"cbab1e49-e39d-48a7-9f37-7ae190fcef90\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDd25542e7be511dd0e5a2cc1f3530f58a\",\"child_label\":\"Destination\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"d08554df-f506-4a72-b50f-a13291ad7e30\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDd25542e7be511dd0e5a2cc1f3530f58a.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Destination List\",\"mandatory\":\"false\",\"child_name\":\"destination\",\"uiUniqueId\":\"cbab1e49-e39d-48a7-9f37-7ae190fcef90\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDd25542e7be511dd0e5a2cc1f3530f58a\",\"child_label\":\"Destination\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"d08554df-f506-4a72-b50f-a13291ad7e30\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-20 01:54:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>965542e747511dd09fd53525d36d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDd25542e7be511dd0e5a2cc1f3530f58a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ESRI Nearby" source="x_snc_esri_nearby">d9928d2b4799d9d09fd53525d36d436c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESRI Nearby">d9928d2b4799d9d09fd53525d36d436c</sys_scope>
+        <sys_update_name>sys_complex_object_965542e747511dd09fd53525d36d438a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-20 01:54:03</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
